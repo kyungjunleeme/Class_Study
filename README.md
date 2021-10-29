@@ -1,5 +1,9 @@
 # Class_Study
 
+디스크립터 - getter, setter
+
+
+
 Guido van Rossum11 Sep 2012 - Public
 
 Some patterns for fast Python. Know any others?
