@@ -2,6 +2,7 @@
 
 디스크립터 - getter, setter
 
+https://www.youtube.com/watch?v=wfcWRAxRVBA
 
 
 Guido van Rossum11 Sep 2012 - Public
