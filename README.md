@@ -20,3 +20,7 @@ Don't write Java (or C++, or Javascript, ...) in Python.
 Are you sure it's too slow? Profile before optimizing!
 
 The universal speed-up is rewriting small bits of code in C. Do this only when all else fails.
+
+# pydantic
+
+https://testdriven.io/blog/django-and-pydantic/
